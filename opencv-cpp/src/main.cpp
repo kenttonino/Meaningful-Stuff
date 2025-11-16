@@ -1,10 +1,14 @@
+#include "./examples/examples.hpp"
 #include "./libs/libs.hpp"
 #include <iostream>
 
 int main(void) {
-  newLine(2);
-  std::cout << "Hello from OpenCV";
-  newLine(2);
+  new_line(2);
+
+  // 0001_image examples.
+  ex_0001_load_image();
+
+  new_line(2);
 
   return 0;
 }

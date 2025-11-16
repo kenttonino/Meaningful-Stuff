@@ -2,6 +2,6 @@
 #define LIBS_HPP
 #include "new_line.cpp"
 
-extern void newLine(int lines);
+extern void new_line(int lines);
 
 #endif
