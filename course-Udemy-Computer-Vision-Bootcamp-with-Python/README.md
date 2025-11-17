@@ -25,3 +25,9 @@ make venv
 # This will start the main file.
 make start
 ```
+
+> - After running the virtual environment, install the dependencies.
+
+```sh
+pip install -r requirements.txt
+```
