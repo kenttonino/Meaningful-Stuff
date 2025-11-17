@@ -13,3 +13,13 @@
 <br />
 
 ![03-computer-vision-algorithms](./images/03-computer-vision-algorithms.png)
+
+<br />
+<br />
+<br />
+
+
+
+# Handling Pixel Intensities 1
+
+> - https://www.udemy.com/course/computer-vision-bootcamptm-python-and-opencv/learn/lecture/22626311#overview
