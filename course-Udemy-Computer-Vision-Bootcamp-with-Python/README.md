@@ -7,3 +7,21 @@ https://www.udemy.com/course/computer-vision-bootcamptm-python-and-opencv/learn/
 ```
 
 > - Notes will be placed in `notes/` directory and sample computer program will be placed in the `src/` directory.
+
+<br />
+<br />
+<br />
+
+
+
+## Local Setup
+
+> - Create a virtual environment and run it.
+
+```sh
+# This will create a virtual environment.
+make venv
+
+# This will start the main file.
+make start
+```
